@@ -1,0 +1,39 @@
+# Virtual environment & Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Environment Variables & Secrets (CRITICAL)
+.env
+.env.local
+
+# Temp test and capture scripts
+verify_*.py
+test_*.py
+add_*.py
+inject_*.py
+apply_*.py
+repair_*.py
+sanitize_*.py
+clean_*.py
+dedup_*.py
+fix_*.py
+patch_*.py
+rebrand_*.py
+update_*.py
+take_*.py
+build_*.py
+capture_*.py
+generate_*.py
+
+# Artifacts & Presentations
+*.pptx
+*.png
+*.jpg
+skrinshotlar/
+.system_generated/
